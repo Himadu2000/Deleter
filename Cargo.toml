@@ -1,0 +1,9 @@
+[package]
+name = "deleter"
+version = "0.1.0"
+authors = ["Himadu2000 <49078336+Himadu2000@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
